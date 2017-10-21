@@ -56,3 +56,7 @@ Open your terminal and run file,
 ```bash
 $ sync-macos-app.sh
 ```
+
+# Note
+
+Please don't forget to change the "DESTINATION" field according to your own computer.
