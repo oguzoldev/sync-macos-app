@@ -51,6 +51,7 @@ rm $EXCLUDE
 
 # Basic Usage
 
+Download sync-macos-app.sh and change "DESTINATION" field according to your own computer.
 Open your terminal and run file,
 
 ```bash
